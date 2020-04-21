@@ -1,9 +1,11 @@
 # Project Laravel - Vue 2 - Vuetable 2
 
-### Laravel - PHP Framework 7.x
-### Bootstrap - CSS Framework 4.4.1
-### Vue javascript library - 2.6.11
-### Vuetable 2
+#### Laravel - PHP Framework 7.x
+#### Bootstrap - CSS Framework 4.4.1
+#### Vue javascript library - 2.6.11
+#### Vuetable 2
+
+:simple_smile:
 
 - git clone https://github.com/chechepech/laravel-vue-vuetable.git
 - cd into your project
@@ -15,13 +17,12 @@
 - add database information in the .env file
 - php artisan migrate
 
-:simple_smile:
-![Image Laravel Vue Vuetable 2](vue.png)
-![Image Laravel Vue Vuetable 2](vue_2.png)
-![Image Laravel Vue Vuetable 2](vue_3.png)
-![Image Laravel Vue Vuetable 2](vue_4.png)
-![Image Laravel Vue Vuetable 2](vue_5.png)
-![Image Laravel Vue Vuetable 2](vue_6.png)
+![Image of Laravel Vue Vuetable 2](vue.png)
+![Image of Laravel Vue Vuetable 2](vue_2.png)
+![Image of Laravel Vue Vuetable 2](vue_3.png)
+![Image of Laravel Vue Vuetable 2](vue_4.png)
+![Image of Laravel Vue Vuetable 2](vue_5.png)
+![Image of Laravel Vue Vuetable 2](vue_6.png)
 
 :beers: [Cheche Pech](https://www.facebook.com/chechepech).
 <br/>
