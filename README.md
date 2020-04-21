@@ -2,6 +2,7 @@
 
 #### Laravel - PHP Framework 7.x
 #### Bootstrap - CSS Framework 4.4.1
+#### Axios
 #### Vue javascript library - 2.6.11
 #### Vuetable 2
 
