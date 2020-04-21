@@ -1,19 +1,20 @@
 # Project Laravel - Vue 2 - Vuetable 2
 
-## Laravel - PHP Framework 7.x
-## Bootstrap - CSS Framework 4.4.1
-## Vue javascript library - 2.6.11
-## Vuetable 2
+### Laravel - PHP Framework 7.x
+### Bootstrap - CSS Framework 4.4.1
+### Vue javascript library - 2.6.11
+### Vuetable 2
 
-### git clone https://github.com/chechepech/laravel-vue-vuetable.git
-### cd into your project
-### composer install
-### npm install && npm run dev
-### copy .env.example .env
-### php artisan key:generate
-### create a "empty" database
-### add database information in the .env file
-### php artisan migrate
+- git clone https://github.com/chechepech/laravel-vue-vuetable.git
+- cd into your project
+- composer install
+- npm install && npm run dev
+- copy .env.example .env
+- php artisan key:generate
+- create a "empty" database
+- add database information in the .env file
+- php artisan migrate
+
 :simple_smile:
 ![Image Laravel Vue Vuetable 2](vue.png)
 ![Image Laravel Vue Vuetable 2](vue_2.png)
