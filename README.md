@@ -5,7 +5,7 @@
 #### Vue javascript library - 2.6.11
 #### Vuetable 2
 
-:simple_smile:
+> :smile:
 
 - git clone https://github.com/chechepech/laravel-vue-vuetable.git
 - cd into your project
