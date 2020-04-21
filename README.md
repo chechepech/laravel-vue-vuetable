@@ -17,12 +17,12 @@
 - add database information in the .env file
 - php artisan migrate
 
-![Image of Laravel Vue Vuetable 2](vue.png)
-![Image of Laravel Vue Vuetable 2](vue_2.png)
-![Image of Laravel Vue Vuetable 2](vue_3.png)
-![Image of Laravel Vue Vuetable 2](vue_4.png)
-![Image of Laravel Vue Vuetable 2](vue_5.png)
-![Image of Laravel Vue Vuetable 2](vue_6.png)
+![Image of Laravel Vue Vuetable 2](vue.PNG)
+![Image of Laravel Vue Vuetable 2](vue_2.PNG)
+![Image of Laravel Vue Vuetable 2](vue_3.PNG)
+![Image of Laravel Vue Vuetable 2](vue_4.PNG)
+![Image of Laravel Vue Vuetable 2](vue_5.PNG)
+![Image of Laravel Vue Vuetable 2](vue_6.PNG)
 
 :beers: [Cheche Pech](https://www.facebook.com/chechepech).
 <br/>
